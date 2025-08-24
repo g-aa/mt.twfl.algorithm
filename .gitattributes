@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Make sure *nix stays *nix
+*.sh      eol=lf
+*.conf    eol=lf

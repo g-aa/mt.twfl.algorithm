@@ -1,4 +1,4 @@
-# <p><img src="iconMt.png" width="64px" height="64px" align="middle"/> Mt TWFL algorithm</p>
+# Mt TWFL algorithm
 
 Traveling wave fault location (TWFL) - волновой метод определения места повреждения на высоковольтных линиях электропередачи.
 

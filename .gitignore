@@ -1,0 +1,10 @@
+## Ignore temporary files, build results, and folders.
+
+# not indexed
+*.~*
+.*
+
+# indexed
+!.editorconfig
+!.gitattributes
+!.gitignore
